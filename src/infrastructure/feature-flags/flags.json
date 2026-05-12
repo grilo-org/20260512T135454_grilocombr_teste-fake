@@ -1,0 +1,11 @@
+{
+  "flags": [
+    {
+      "name": "show_milestone_celebration",
+      "enabled": true,
+      "description": "Exibe um card motivacional quando o usuário atinge 50% de uma meta"
+    }
+  ],
+  "version": "1.0.0",
+  "lastUpdated": "2026-05-12T00:00:00Z"
+}
